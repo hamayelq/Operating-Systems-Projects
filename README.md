@@ -1,4 +1,4 @@
 # Operating-Systems-Projects
 # Welcome one and all
 
-Switch to branch "project4" for latest changes. Will merge into main soon.
+Switch to branch "project4" for latest projects and code. Will merge into main soon.
